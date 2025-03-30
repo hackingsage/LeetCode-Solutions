@@ -74,4 +74,4 @@ function lengthOfLongestSubstring(s) {
 ---
 
 ## Complexity Analysis
-- **Python, C, C++, JavaScript:** `O(n)`, since we use a sliding window approach where each character is processed at most twice.
+- **Python, C++, JavaScript:** `O(n)`, since we use a sliding window approach where each character is processed at most twice.
