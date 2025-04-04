@@ -24,6 +24,7 @@ The solutions are organized by problem name and category. Each problem includes 
 |── 📂 String/
 |   |── longest_substring_without_repeating_characters.md
 |   |── longest_palindromic_substring.md
+|   |── zigzag-conversion.md
 │
 └── README.md  (This file)
 ```
@@ -36,6 +37,7 @@ The solutions are organized by problem name and category. Each problem includes 
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](LinkedList/add_two_numbers.md) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Solution](String/longest_substring_without_repeating_characters.md) |
 | 4 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](String/longest_palindromic_substring.md) |
+| 5 | [Zizgag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Solution](String/zigzag-conversion.md) |
 
 ## 🛠 Languages Used
 
