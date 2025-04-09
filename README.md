@@ -21,6 +21,7 @@ The solutions are organized by problem name and category. Each problem includes 
 |   |── longest_substring_without_repeating_characters.md
 |   |── longest_palindromic_substring.md
 |   |── zigzag-conversion.md
+|   |── string-to-integer.md
 │
 ├── 📂 Math/
 |   |── reverse-integer.md
@@ -38,6 +39,7 @@ The solutions are organized by problem name and category. Each problem includes 
 | 4 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](String/longest_palindromic_substring.md) |
 | 5 | [Zizgag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Solution](String/zigzag-conversion.md) |
 | 6 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](Math/reverse-integer.md) |
+| 7 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](String/string-to-integer.md) |
 
 ## 🛠 Languages Used
 
