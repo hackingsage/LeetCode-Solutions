@@ -25,6 +25,7 @@ The solutions are organized by problem name and category. Each problem includes 
 │
 ├── 📂 Math/
 |   |── reverse-integer.md
+|   |── palindrome-integer.md
 |
 └── README.md  (This file)
 ```
