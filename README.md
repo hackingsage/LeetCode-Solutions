@@ -40,6 +40,7 @@ The solutions are organized by problem name and category. Each problem includes 
 | 5 | [Zizgag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Solution](String/zigzag-conversion.md) |
 | 6 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](Math/reverse-integer.md) |
 | 7 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](String/string-to-integer.md) |
+| 8 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](Math/palindrome-number.md) |
 
 ## 🛠 Languages Used
 
